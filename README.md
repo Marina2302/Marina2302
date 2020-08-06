@@ -1,6 +1,6 @@
 # 👋 Hi there! My name is Marina
 
- <p><img src="https://cr.openjdk.java.net/~jeff/Duke/png/Thumbsup1.png"  align="right">  
+ <p><img src="https://www.clipartmax.com/png/middle/326-3269756_java-is-still-free-duke-java.png"  align="right">  
  
    **You can always find me at these addresses:**
 <br>💼[Linkedin][1]</br>
