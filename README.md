@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hi there! My name is Marina
 
-<!--
-**Marina2302/Marina2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p><img src="https://cr.openjdk.java.net/~jeff/Duke/png/Thumbsup1.png"  align="right">  
+ 
+   **You can always find me at these addresses:**
+<br>💼[Linkedin][1]</br>
+📱[Telegram][2]
 
-Here are some ideas to get you started:
+[1]: www.linkedin.com/in/bmv-2302        "My Linkedin Page"
+[2]: https://t.me/prostyVozhyk            "My Telegram Page"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I'm friends with Duke and currently learning Java.** 🤔
+
+</p>
