@@ -6,7 +6,7 @@
 <br>💼[Linkedin][1]</br>
 📱[Telegram][2]
 
-[1]: www.linkedin.com/in/bmv-2302        "My Linkedin Page"
+[1]: https://www.linkedin.com/in/bmv-2302/        "My Linkedin Page"
 [2]: https://t.me/prostyVozhyk            "My Telegram Page"
 
 🌱 **I'm friends with Duke and currently learning Java.** 🤔
