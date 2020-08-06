@@ -1,6 +1,6 @@
 # 👋 Hi there! My name is Marina
 
- <p><img src="https://www.clipartmax.com/png/middle/326-3269756_java-is-still-free-duke-java.png"  align="right">  
+ <p><img src="https://lh3.googleusercontent.com/proxy/3tOyCgmL-aDh3xFjPtjasl4yJQf6Ja-J-yx79pAebjz7PCQp4O1G2Vzj28pBgm2Y9AzoFKqCQaYH35JBzYhkNw"  align="right">  
  
    **You can always find me at these addresses:**
 <br>💼[Linkedin][1]</br>
